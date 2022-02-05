@@ -1,4 +1,4 @@
 # Journal
-Journal Flutter app made with Dart.  
+A Flutter app that represents a Journal.
 
 ![](journal.gif)
