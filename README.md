@@ -1,4 +1,4 @@
 # Journal
-A Flutter app that represents a Journal.
+A Flutter app that represents a journal.
 
 ![](journal.gif)
