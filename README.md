@@ -1,2 +1,2 @@
 # Journal
-Journal app made in Flutter. 
+Journal Flutter app made with Dart.  
